@@ -1,0 +1,18 @@
+{
+  "name": "book-r-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "keywords": [],
+  "author": "Manoj Kumar Sah",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "book-r-backend": "file:",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.6.3"
+  }
+}
